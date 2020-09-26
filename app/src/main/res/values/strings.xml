@@ -11,6 +11,7 @@
     <string name="onDestroy">onDestroy executed</string>
     <string name="onSavedInstance">onSavedInstance executed</string>
     <string name="onRestart">onRestart executed</string>
+    <string name="main_title">Main Activity</string>
 
     <string-array name="list_activities">
         <item>@string/ai_activity</item>
