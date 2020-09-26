@@ -21,6 +21,7 @@ public class VRActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vr);
+        setTitle(R.string.vr_title);
 
         lifeCycle = findViewById(R.id.tvLifeCycle);
         lifeCycle.setTextColor(getResources().getColor(R.color.colorAccent));

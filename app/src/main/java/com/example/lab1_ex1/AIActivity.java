@@ -24,6 +24,7 @@ public class AIActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ai);
+        setTitle(R.string.ai_title);
 
         lifeCycle = findViewById(R.id.tvLifeCycle);
         lifeCycle.setTextColor(getResources().getColor(R.color.colorAccent));

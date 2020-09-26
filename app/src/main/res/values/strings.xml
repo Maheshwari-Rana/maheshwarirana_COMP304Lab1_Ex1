@@ -12,6 +12,8 @@
     <string name="onSavedInstance">onSavedInstance executed</string>
     <string name="onRestart">onRestart executed</string>
     <string name="main_title">Main Activity</string>
+    <string name="ai_title">AI Activity</string>
+    <string name="vr_title">VR Activity</string>
 
     <string-array name="list_activities">
         <item>@string/ai_activity</item>
