@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab1_Ex1</string>
+    <string name="title">Life Cycle Methods Demonstration</string>
+    <string name="vr_activity">VR Activity</string>
+    <string name="ai_activity">AI Activity</string>
+    <string name="onCreate">onCreate executed</string>
+    <string name="onStart">onStart executed</string>
+    <string name="onStop">onStop executed</string>
+    <string name="onPause">onPause executed</string>
+    <string name="onResume">onResume executed</string>
+    <string name="onDestroy">onDestroy executed</string>
+    <string name="onSavedInstance">onSavedInstance executed</string>
+    <string name="onRestart">onRestart executed</string>
+
+    <string-array name="list_activities">
+        <item>@string/ai_activity</item>
+        <item>@string/vr_activity</item>
+    </string-array>
+
+
+</resources>
